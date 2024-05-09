@@ -3,7 +3,7 @@ import re
 import chromadb
 from chromadb.utils import embedding_functions
 from sentence_transformers import SentenceTransformer,util
-st.image(r"C:\Users\ravin\Downloads\Innomatics-Logo1 (1).webp")
+st.image("Innomatics-Logo1 (1).webp")
 st.title("🎥🎬Movie Subtitle Search Engine")
 
 
